@@ -1,0 +1,9 @@
+1. inside the existing repository "alx-intermediate-frontend".
+2. I created the directory "0x03-sass_scss".
+3. Opened VS Code integrated terminal.
+4. Installed Sass using npm with:
+   npm install sass
+   (Note: the command npm install sass -v 3.7.4 defaults to the latest version since 3.7.4 does not exist in the "sass" package).
+5. Verified installation with:
+   npx sass --version
+   Output: 1.92.1 compiled with dart2js 3.9.2
